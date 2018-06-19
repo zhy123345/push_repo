@@ -1,4 +1,6 @@
 #!/bin/bash
+
+
 #Filename
 PRICE=$(($RANDOM % 1000))
 TIMES=0
